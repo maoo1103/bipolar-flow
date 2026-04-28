@@ -1,0 +1,8 @@
+{
+  "name": "flow",
+  "description": "A non-judgmental mood tracking application designed for Bipolar Disorder management. Focuses on observing patterns without pressure to 'be cured'.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
